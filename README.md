@@ -12,10 +12,10 @@ Landing de una propuesta académica. El escape room no es una actividad oficial 
 
 ## Estado de publicación
 
-Sitio publicado en producción en Vercel y conectado al proyecto de Supabase `fgujnqclaknihlyjwfkz`. Respaldo de código en un repositorio privado de GitHub.
+Sitio publicado en producción en Vercel y conectado al proyecto de Supabase `fgujnqclaknihlyjwfkz`. Respaldo de código en un repositorio público de GitHub.
 
 - [Abrir sitio](https://arocena-escape-room.vercel.app)
-- [Repositorio privado](https://github.com/eliudcastilloh/arocena-escape-room)
+- [Repositorio público](https://github.com/eliudcastilloh/arocena-escape-room)
 - Proyecto Vercel: `prj_F7Zm9Kn60QcvDJEylVKHpWdbWJIz`, espacio `eliud5`.
 
 El respaldo en GitHub se cargó manualmente; no hay despliegue automático configurado desde GitHub.
