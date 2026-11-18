@@ -5,5 +5,11 @@
     "api/interest.js": {
       "maxDuration": 15
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/explorador",
+      "destination": "/explorador/index.html"
+    }
+  ]
 }
