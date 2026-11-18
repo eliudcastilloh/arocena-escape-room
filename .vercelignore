@@ -1,0 +1,7 @@
+*
+!public/
+!public/**
+!api/
+!api/**
+!package.json
+!vercel.json

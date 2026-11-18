@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.env*
+!.env.example
+.vercel/
+.openai/
+dist/
+PRD_Escape_Room_Museo_Arocena.md
+www.adidas.mx_*.md
+sic.cultura.gob.mx_*.md
